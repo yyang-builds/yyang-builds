@@ -1,6 +1,6 @@
 ### Hi, I'm YY
 
-I work with data end to end: **SQL**, **Python**, and **dashboards**, plus **pipelines** and **ML** when a project needs it. I like turning raw tables into clear metrics, charts people actually use, and short write-ups of what changed and why.
+I work with data end to end: **SQL**, **Python**, and **dashboards**, plus **pipelines** and **ML** when a project needs it. I’m especially interested in **supply chain** (routing, allocation, operations) and **monetization** (pricing, campaigns, ad performance). I like turning raw tables into clear metrics, charts people actually use, and short write-ups of what changed and why.
 
 ---
 
@@ -9,6 +9,8 @@ I work with data end to end: **SQL**, **Python**, and **dashboards**, plus **pip
 **Core:** Python · SQL
 
 **Analytics:** metrics, funnels, cohorts, RFM, campaign / CTR analysis
+
+**Focus:** supply chain · monetization
 
 **Tools & stack:** BigQuery · Airflow · dbt · Spark · Looker Studio · pandas · scikit-learn · reinforcement learning (project-specific)
 
