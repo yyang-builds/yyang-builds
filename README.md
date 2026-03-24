@@ -1,6 +1,6 @@
 ### Hi, I'm YY
 
-I work with data end to end: **SQL**, **Python**, and **dashboards**, plus **pipelines** and **ML** when a project needs it.
+I work with data end to end: **SQL**, **Python**, and **dashboards**, plus **pipelines** and **ML** when a project needs it. I like turning raw tables into clear metrics, charts people actually use, and short write-ups of what changed and why.
 
 ---
 
